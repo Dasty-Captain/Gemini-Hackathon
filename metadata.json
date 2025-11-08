@@ -1,0 +1,5 @@
+{
+  "name": "Vibe PRD Generator",
+  "description": "An AI-powered self-service platform that transforms natural conversations into senior engineer-level PRDs (Product Requirements Documents), PLAN.md, and agent instruction files, optimized for AI coding agents.",
+  "requestFramePermissions": []
+}
